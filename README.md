@@ -154,6 +154,5 @@ With the proximity to the Tirumala hills, Taj Tirupati is a 5-star hotel featuri
 ## HTML Validator
 ![HTML Validator](./screenshots/valid.png)
 
-
 ## Result:
 The program for implementing image map is executed successfully
